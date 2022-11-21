@@ -1,0 +1,119 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "rashmi",
+      "email": "faltu@gmail.com",
+      "mobile": "44444444444444444",
+      "address": "delhi",
+      "services": "shabana"
+    },
+    {
+      "id": 6,
+      "name": "rinku",
+      "email": "rinku@tinku",
+      "mobile": "52246542165",
+      "address": "cfvghjnk",
+      "services": "magic"
+    },
+    {
+      "id": 7,
+      "name": "rashmi",
+      "email": "tulerashmi@gmail.com",
+      "mobile": "14566333333",
+      "address": "ahkakaka",
+      "services": "ooooooooooooooooooo"
+    },
+    {
+      "id": 8,
+      "name": "rashmi",
+      "email": "gu@su",
+      "mobile": "96574523",
+      "address": "haweli",
+      "services": "water"
+    }
+  ],
+  "signup": [
+    {
+      "name": "rashmi",
+      "email": "a@b",
+      "mobile": "",
+      "password": "121212",
+      "id": 1
+    },
+    {
+      "name": "kalpana",
+      "email": "k@p",
+      "mobile": "",
+      "password": "125645",
+      "id": 2
+    },
+    {
+      "name": "akshu",
+      "email": "fsaghsy",
+      "mobile": "",
+      "password": "652152",
+      "id": 3
+    },
+    {
+      "name": "drfghjhgv",
+      "email": "sdfgh",
+      "mobile": "",
+      "password": "951",
+      "id": 4
+    },
+    {
+      "name": "arar",
+      "email": "hjkkjhg",
+      "mobile": "",
+      "password": "6542",
+      "id": 5
+    },
+    {
+      "name": "chinu",
+      "email": "cha",
+      "mobile": "596223",
+      "password": "77777",
+      "id": 6
+    },
+    {
+      "name": "Rashmi",
+      "email": "rashmi@gmail.com",
+      "mobile": "14567899",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "kalpana",
+      "email": "kalpana@gmail.com",
+      "mobile": "78945789656",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "name": "onkar",
+      "email": "onkar@123gmail.com",
+      "mobile": "123456",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "name": "Rashmi",
+      "email": "tulerashmi@gmail.com",
+      "mobile": "7769062028",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "name": "rashmi",
+      "email": "tulerashmi@gmail.com",
+      "mobile": "12345678",
+      "password": "123456",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
